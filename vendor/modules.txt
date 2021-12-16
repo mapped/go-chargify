@@ -43,7 +43,7 @@ github.com/qri-io/jsonpointer
 # github.com/qri-io/jsonschema v0.2.1
 ## explicit; go 1.13
 github.com/qri-io/jsonschema
-# github.com/rs/zerolog v1.25.0
+# github.com/rs/zerolog v1.26.1
 ## explicit; go 1.15
 github.com/rs/zerolog
 github.com/rs/zerolog/internal/cbor
@@ -80,7 +80,7 @@ github.com/stretchr/testify/require
 # github.com/subosito/gotenv v1.2.0
 ## explicit
 github.com/subosito/gotenv
-# golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+# golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
 ## explicit; go 1.17
 golang.org/x/net/publicsuffix
 # golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf
